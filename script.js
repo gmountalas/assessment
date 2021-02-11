@@ -6,4 +6,4 @@ then(response => {
       return Promise.reject('something went wrong!')
     }
   }).
-then(data => console.log(data));</script>
+then(data => console.log(data));
